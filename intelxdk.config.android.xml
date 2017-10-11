@@ -4,18 +4,14 @@
 <!--To change the contents of this file, see the documentation on the intelxdk.config.additions.xml file.-->
 <intelxdk:version value="1.1"/>
 <intelxdk:cordova-cli version="6.2.0"/>
-<name>OSPETS</name>
-<description>App da plataforma da rede Os Pets!</description>
-<author>Israel Wilson</author>
+<name>OSPETSATUALIZADO</name>
+<description>Intel XDK sample</description>
+<author>Intel XDK</author>
 <content src="index.html"/>
 <access origin="http://html5test.com/*"/>
 <access origin="http://www.i-drain.net/*"/>
-<access origin="http://ospets.israelwilson.com.br/*"/>
-<access origin="http://ospets.israelwilson.com.br/">
 <allow-intent href="http://html5test.com/*"/>
 <allow-intent href="http://www.i-drain.net/*"/>
-<allow-intent href="http://ospets.israelwilson.com.br/*"/>
-<allow-intent href="http://ospets.israelwilson.com.br/"/>
 <intelxdk:plugin intelxdk:name="Device" intelxdk:value="cordova-plugin-device" intelxdk:version="1.1.2" intelxdk:checksum="2373ccea" intelxdk:type="file"/>
 <intelxdk:plugin intelxdk:name="Splashscreen" intelxdk:value="cordova-plugin-splashscreen" intelxdk:version="3.2.2" intelxdk:checksum="47137083" intelxdk:type="file"/>
 <intelxdk:plugin intelxdk:name="StatusBar" intelxdk:value="cordova-plugin-statusbar" intelxdk:version="2.1.3" intelxdk:checksum="c0146fbc" intelxdk:type="file"/>
